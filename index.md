@@ -3,14 +3,12 @@
 I am currently a Phd-student in populations genomics with a specialisation in cattle et ovine species.
 This page shows some of R-scripts I have created for several projects I worked.
 
-You can use the [editor on GitHub](https://github.com/magnierj/magnierjessica.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 
 ### Cartography
 
 I have created this map for my Phd project : 
 
-![Image](src)
+![Image](https://github.com/magnierj/cartography/varclim_IO_accol.pdf)
 
 
 To obtain the script [carto_clim_ovin_bovin.R](https://github.com/magnierj/cartography).
@@ -20,6 +18,9 @@ To obtain the script [carto_clim_ovin_bovin.R](https://github.com/magnierj/carto
 I was in charge of teaching "statistics analysis" for Msc students in process engineering in September 2015. More specifically, I taught Single and Multiple Linear Regression, Experimental planning and Principal Components Analysis method. You can found Teaching-documents [here](https://github.com/magnierj/teaching).
 
 
+
+
+You can use the [editor on GitHub](https://github.com/magnierj/magnierjessica.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 ```markdown
 Syntax highlighted code block
 
