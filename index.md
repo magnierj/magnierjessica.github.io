@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my page!
+
+I am currently a Phd-student in populations genomics with a specialisation in cattle et ovine species.
+This page shows some of R-scripts I have created for several projects I worked.
 
 You can use the [editor on GitHub](https://github.com/magnierj/magnierjessica.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Cartography
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I have created this map for my Phd project : 
+
+![Image](src)
+
+
+To obtain the script [carto_clim_ovin_bovin.R](https://github.com/magnierj/cartography).
+
+### Teaching
+
+I was in charge of teaching "statistics analysis" for Msc students in process engineering in September 2015. More specifically, I taught Single and Multiple Linear Regression, Experimental planning and Principal Components Analysis method. You can found Teaching-documents [here](https://github.com/magnierj/teaching).
+
 
 ```markdown
 Syntax highlighted code block
@@ -26,9 +38,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/magnierj/magnierjessica.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
